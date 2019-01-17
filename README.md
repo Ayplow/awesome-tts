@@ -5,7 +5,6 @@ I'm kinda just stealing the 'awesome' format as an excuse for putting together e
 
 ## Modding tools
 
-- [ge_tts](https://gitlab.com/BenjaminDobell/ge_tts/) - A collection of small libraries for mods
 - [tts-proxy](https://github.com/Benjamin-Dobell/tts-proxy) - A heroku app for proxying web requests into standard HTTP.
 - [lua-compile](https://gitlab.com/MoreThanTom/lua-compiled-require) - A compiler for multi-file lua projects.
 - [Enhanced Moonsharp](https://github.com/Benjamin-Dobell/moonsharp) - A version of moonsharp for debugging TTS mods.
@@ -13,3 +12,5 @@ I'm kinda just stealing the 'awesome' format as an excuse for putting together e
 ## Libraries
 
 Some libraries compatible and useful for modding the game
+
+- [ge_tts](https://gitlab.com/BenjaminDobell/ge_tts/) - A collection of small libraries for mods
